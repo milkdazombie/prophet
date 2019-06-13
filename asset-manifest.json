@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/prophet/static/css/main.f991303a.chunk.css",
+    "main.js": "/prophet/static/js/main.4b3e9542.chunk.js",
+    "main.js.map": "/prophet/static/js/main.4b3e9542.chunk.js.map",
+    "runtime~main.js": "/prophet/static/js/runtime~main.87b675c7.js",
+    "runtime~main.js.map": "/prophet/static/js/runtime~main.87b675c7.js.map",
+    "static/js/2.3f2799d3.chunk.js": "/prophet/static/js/2.3f2799d3.chunk.js",
+    "static/js/2.3f2799d3.chunk.js.map": "/prophet/static/js/2.3f2799d3.chunk.js.map",
+    "index.html": "/prophet/index.html",
+    "precache-manifest.11eafe37749125c5d2d02ff1851791d1.js": "/prophet/precache-manifest.11eafe37749125c5d2d02ff1851791d1.js",
+    "service-worker.js": "/prophet/service-worker.js",
+    "static/css/main.f991303a.chunk.css.map": "/prophet/static/css/main.f991303a.chunk.css.map"
+  }
+}
