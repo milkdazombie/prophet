@@ -1,0 +1,16 @@
+{
+    "defaultSeverity": "error",
+    "extends": ["tslint:recommended", "tslint-react", "tslint-config-prettier"],
+    "jsRules": {},
+    "rules": {
+        "interface-name": false,
+        "return-undefined": true,
+        "jsx-no-lambda": false,
+        "max-line-length": [true, 100],
+        "jsx-space-before-trailing-slash": true
+    },
+    "rulesDirectory": [],
+    "linterOptions": {
+        "exclude": ["./src/utils/fateOdds.ts"]
+    }
+}

@@ -1,0 +1,77 @@
+html,
+body,
+#root,
+main {
+    height: 100%;
+}
+
+label {
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.fate-ranges span {
+    font-weight: bold;
+}
+
+.chaos-scale button,
+.chaos-scale li {
+    font-weight: bold;
+}
+
+.input-group-prepend .dropdown button {
+    border-top-right-radius: 0;
+    border-bottom-right-radius: 0;
+}
+
+.log li {
+    font-size: 0.8rem;
+}
+
+.chaos-scale .list-group-item.list-group-item-secondary {
+    z-index: 1;
+}
+
+.chaos-9 {
+    color: #b22222;
+}
+
+.chaos-8 {
+    color: #c64921;
+}
+
+.chaos-7 {
+    color: #d9691d;
+}
+
+.chaos-6 {
+    color: #ec8715;
+}
+
+.chaos-5 {
+    color: #ffa500;
+}
+
+.chaos-4 {
+    color: #cc9f00;
+}
+
+.chaos-3 {
+    color: #989700;
+}
+
+.chaos-2 {
+    color: #618c00;
+}
+
+.chaos-1 {
+    color: #008000;
+}
+
+.md p {
+    margin-bottom: 0;
+}
+
+.md.md-action em {
+    color: #6c757d;
+}
